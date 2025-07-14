@@ -35,8 +35,11 @@ The control gains \(K_x, K_y, K_\theta\) are tuned via minimization of RMSE betw
 
 ## 📈 Simulation Results
 
-Key outcomes include:
-- Near-zero error convergence
-- Smooth trajectory tracking despite nonholonomic constraints
-- Limitations in lateral (y-axis) tracking noted for further improvement
+<img width="572" height="595" alt="image" src="https://github.com/user-attachments/assets/ebe2a947-dc8c-45a3-a9d7-7294da859b66" />
+
+<img width="755" height="607" alt="image" src="https://github.com/user-attachments/assets/d781214f-a854-45d3-a68f-8650a9dfc465" />
+
+<img width="760" height="607" alt="image" src="https://github.com/user-attachments/assets/ff992fd0-544d-4134-ac0c-25a65bf62646" />
+
+<img width="767" height="607" alt="image" src="https://github.com/user-attachments/assets/e6555178-d10a-4ca5-a5d6-38aa0e8b4081" />
 
